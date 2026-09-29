@@ -1,0 +1,18 @@
+{
+  "name": "Bez dymu",
+  "short_name": "Bez dymu",
+  "description": "Aplikacja wspierająca rzucanie palenia.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080d12",
+  "theme_color": "#0d3b33",
+  "lang": "pl",
+  "icons": [
+    {
+      "src": "cigarrete.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
